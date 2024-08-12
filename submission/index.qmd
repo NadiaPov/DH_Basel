@@ -1,31 +1,24 @@
 ---
-submission_id: 499
-title: Digital History Switzerland 2024 submission title
+submission_id: 405
+title: Data-Driven Approaches to Studying the History of Museums on the Web: Challenges and Opportunities for New Discoveries
 author:
-  - name: Petra Huber
-    orcid: 0000-0002-0760-5497
-    email: petra.huber@university.ch
+  - name: Nadezhda Povroznik
+    orcid: 0000-0003-2044-8147
+    email: povroznik@pg.tu-darmstadt.de
     affiliations:
-      - University 1
-  - name: Michel Meier
-    orcid: 0000-0002-7859-8394
-    email: michel.meier@university.edu
-    affiliations:
-      - University 1
-      - University 2
+      - Technische Universität Darmstadt
 keywords:
-  - Keyword 1
-  - Keyword 2
-  - Keyword 3
-  - Keyword 4 (optional)
-  - Keyword 5 (optional)
-abstract: |
-  Short abstract of the submission. This is a placeholder for the abstract of the manuscript. It should be between 150 and 250 words. It must not contain any references or unexplained abbreviations.
+  - Data-driven research
+  - Web archives
+  - Museums' history
+  - Web history
+abstract: 
+  Data-driven approaches applied to research in the humanities offer extensive opportunities to analyze large volumes of data and gain new knowledge and insights. Web archives serve as valuable resources for analysis of the development of the websites and even the entire domains through the decades, providing access to historical data. This research focuses on applying data-driven approaches to the web history of the Metropolitan Museum of Art and the National Museum of Australia. Utilizing the Internet Archive and the Australian Web Archive, the study examines the opportunities and challenges in extracting and analyzing large datasets from these sources. Key challenges include the complexities of obtaining datasets, dealing with incomplete or biased data, and the inherent difficulties in analyzing diverse data formats like text, images, and multimedia. The research highlights the importance of digital research infrastructures, such as the GLAM Workbench and Archives Research Compute Hub, in addressing these challenges and facilitating robust analysis. The study demonstrates the potential of data-driven methodologies to offer new insights into the evolution of museums' online presence while also underscoring the complexities involved in the research process.
 key-points:
-  - Key point 1 (1 sentence)
-  - Key point 2 (1 sentence)
-  - Key point 3 (1 sentence)
-date: 03-17-2024
+  - Data-driven research offers significant opportunities for analyzing large volumes of web archived data to reveal trends in the complexity of the structure of the preserved websites and the development of content.
+  - Implementation of data-driven research in web history is challenging due to issues like data incompleteness, biases, and the diversity of file formats, which require the development of innovative solutions and digital research infrastructures.
+  - The research highlights challenges in obtaining comprehensive datasets from web archives, underscores the importance of assessing data quality, and indicates the need to address the heterogeneous nature of data preserved in web archives.
+date: 07-24-2024
 bibliography: references.bib
 ---
 
